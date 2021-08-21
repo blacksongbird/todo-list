@@ -1,4 +1,4 @@
-# Webpack Starter
+# ToDo's List
 
 Proyecto de lista de To Do's en JavaScript.
 
